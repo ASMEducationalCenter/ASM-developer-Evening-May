@@ -1,2 +1,6 @@
 DynamoDB best practices:
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html
+
+
+S3 Performance optimization:
+https://docs.aws.amazon.com/AmazonS3/latest/dev/request-rate-perf-considerations.html
