@@ -1,0 +1,17 @@
+Today's Topics to cover:
+
+-S3 CLI
+-Intro to EC2 Slides
+- EC2 Components
+- Instance Purchase Options( Reserved, On-demand, Spot)
+- Tenancy Model( Shared Instances , Dedicated Instance, Dedicated Hosts)
+- Instance Types( t2, m3)
+- Storage(EBS and Instance Store)
+- Networking(Elastic IP, Elastic Network Interface(ENI) , IOPS, enhanced networking)
+- Security( key pairs, security Groups,  Termination protection)
+- Monitoring ( Cloudwatch)
+
+
+Labs:
+Launch and Connect to a Windows 2008 EC2 Server 
+
