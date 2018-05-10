@@ -1,0 +1,6 @@
+
+Finish Day 3 remaining topics
+VPC Slides
+Build A VPC with subnets , RT, Routes etc. Provision 3 Instances
+Nacl vs Security Group
+Nat Gateway
