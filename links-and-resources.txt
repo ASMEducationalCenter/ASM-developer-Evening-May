@@ -9,3 +9,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/request-rate-perf-considerations
 
 What to do if you lose your key pair:
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html
+
+
+Error codes HTTP :
+https://docs.aws.amazon.com/AmazonS3/latest/API/ErrorResponses.html#ErrorCodeList
