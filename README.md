@@ -1,5 +1,8 @@
 # AWS Certified Developer Associate Exam Bootcamp
 
+## Link for the Labs:
+https://s3.amazonaws.com/developer-bootcamp11/Amazon+AWS+Artiteture+Lab_All_collected_together_to+be_+printed_4_6_2018.pdf
+
 ## Course Objective:
 * Prepare students to be ready for the AWS SAA exam
 * Cover all the major AWS services 
