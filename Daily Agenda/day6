@@ -1,0 +1,11 @@
+Agenda:
+
+Launch a Cloudformation Stack on the Northern VA Region
+Create a Load Balancer
+Create an AMI
+Create a Launch Config
+Create an Autoscaling Group with LB
+Exam Questions on ELB and autoscaling
+
+
+
