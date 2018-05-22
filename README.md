@@ -3,6 +3,9 @@
 ## Link for the Labs:
 https://s3.amazonaws.com/developer-bootcamp11/Amazon+AWS+Artiteture+Lab_All_collected_together_to+be_+printed_4_6_2018.pdf
 
+## Link for the Slides:
+https://s3.amazonaws.com/saurav-sharma.com/All-in-one-AWS+-Developer+Sildes+-May+2018+Evening+.pdf
+
 ## Course Objective:
 * Prepare students to be ready for the AWS SAA exam
 * Cover all the major AWS services 
