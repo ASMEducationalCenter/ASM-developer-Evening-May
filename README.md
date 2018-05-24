@@ -1,5 +1,8 @@
 # AWS Certified Developer Associate Exam Bootcamp
 
+## link for WebEx:
+https://asmeducationalcenter.my.webex.com/asmeducationalcenter.my/e.php?MTID=m5373f562cbcdc0aa5d0bb1429552c7a1
+
 ## Link for the Labs:
 https://s3.amazonaws.com/developer-bootcamp11/Amazon+AWS+Artiteture+Lab_All_collected_together_to+be_+printed_4_6_2018.pdf
 
