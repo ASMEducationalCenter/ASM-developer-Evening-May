@@ -9,8 +9,9 @@ https://s3.amazonaws.com/developer-bootcamp11/Amazon+AWS+Artiteture+Lab_All_coll
 ## Link for the Slides:
 https://s3.amazonaws.com/saurav-sharma.com/All-in-one-AWS+-Developer+Sildes+-May+2018+Evening+.pdf
 
-## Link for the practice exams(Link will expire Thursday May 31):
-https://s3.amazonaws.com/certsbook.com/PracticeQuestions.zip?AWSAccessKeyId=AKIAJP4ZXCOGLSPRANSQ&Expires=1527903475&Signature=wZSkcfeRFJ8giPUwpMG4Urmt6IE%3D
+## Link for the practice exams(Link will expire on June 2nd):
+https://s3.amazonaws.com/certsbook.com/PracticeQuestions.zip?AWSAccessKeyId=AKIAJP4ZXCOGLSPRANSQ&Expires=1528047588&Signature=4fe%2Fd9JVxWI0PtLmPGFoOQUQbuY%3D
+
 
 ## Course Objective:
 * Prepare students to be ready for the AWS SAA exam
