@@ -30,7 +30,7 @@ No of reserved private IP per subnet:5 private IP reserved per subnet (0,1,2,3,2
 Cloudformation Ref vs GetAtt Discussion in Reddit:
 https://www.reddit.com/r/aws/comments/7tt1hw/cloudformation_whats_the_difference_between_the/
 
-
-
+Pre-signed-URL
+https://docs.aws.amazon.com/AmazonS3/latest/dev/ShareObjectPreSignedURL.html
 
 
