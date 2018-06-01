@@ -13,7 +13,7 @@ https://s3.amazonaws.com/saurav-sharma.com/All-in-one-AWS+-Developer+Sildes+-May
 https://s3.amazonaws.com/certsbook.com/PracticeQuestions.zip?AWSAccessKeyId=AKIAJP4ZXCOGLSPRANSQ&Expires=1528047588&Signature=4fe%2Fd9JVxWI0PtLmPGFoOQUQbuY%3D
 
 ## Security for AWS Service whiteboard 
-https://s3.amazonaws.com/11may-versioning/security-services-overview.notebook
+https://s3.amazonaws.com/11may-versioning/security-aws.pdf
 
 
 ## Course Objective:
