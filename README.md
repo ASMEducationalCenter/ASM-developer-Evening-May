@@ -12,6 +12,9 @@ https://s3.amazonaws.com/saurav-sharma.com/All-in-one-AWS+-Developer+Sildes+-May
 ## Link for the practice exams(Link will expire on June 2nd):
 https://s3.amazonaws.com/certsbook.com/PracticeQuestions.zip?AWSAccessKeyId=AKIAJP4ZXCOGLSPRANSQ&Expires=1528047588&Signature=4fe%2Fd9JVxWI0PtLmPGFoOQUQbuY%3D
 
+## Security for AWS Service whiteboard 
+https://s3.amazonaws.com/11may-versioning/security-services-overview.notebook
+
 
 ## Course Objective:
 * Prepare students to be ready for the AWS SAA exam
