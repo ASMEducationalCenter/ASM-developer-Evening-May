@@ -17,5 +17,9 @@ KeySchema=[
         'AttributeName': 'name',
         'KeyType': 'HASH'
         }
-    ]
+    ],
+        ,
+    ProvisionedThroughput={
+        'ReadCapacityUnits': 1,
+        'WriteCapacityUnits': 1
 )
