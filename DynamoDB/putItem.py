@@ -13,4 +13,4 @@ def lambda_handler(event, context):
             })
 
 
-        print(response["Items"][0])
+       ## print(response["Items"][0])
